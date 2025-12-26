@@ -58,6 +58,9 @@ Lucas Paguetti Pereira 🧙‍♂️
 <a href="https://www.linkedin.com/company/curso-em-v%C3%ADdeo/posts/?feedView=all">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+<a href="https://github.com/gustavoguanabara">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 
 
