@@ -36,6 +36,10 @@ Lucas Paguetti Pereira 🧙‍♂️
 <a href="mailto:lpp2@cesar.school">
   <img src="https://img.shields.io/badge/Email-lpp2@cesar.school-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+<a href="https://discord.com/users/lucaspaguettipereira">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+
 
 </div>
 
