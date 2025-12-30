@@ -6,7 +6,7 @@
 from cores import(Negrito, Reset, Vermelho, Magenta, Amarelo)
 from time import sleep
 
-sexo = str(input(f"\n {Negrito}Digite o seu sexo: (M/F) {Reset}")).upper()
+sexo = str(input(f"\n {Negrito}Digite o seu sexo: (M/F) {Reset}")).upper().strip()
 print(f"\n {Amarelo} carregando{Reset} {Vermelho} . . . {Reset}\n ")
 sleep(0.8)
 if sexo=="M" or sexo=="F":
