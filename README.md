@@ -73,7 +73,7 @@ Lucas Paguetti Pereira 🧙‍♂️
 
 <h2 align="center">📘 Conteúdo dos Mundos</h2>
 
-<h3>🌍 Mundo 1 – Fundamentos 📘</h3>
+<h3>🌍 Mundo 1 – Fundamentos 📘(✅) </h3>
 
 - Primeiros passos com Python  
 - Variáveis e tipos primitivos (`int`, `float`, `bool`, `str`)  
@@ -83,7 +83,7 @@ Lucas Paguetti Pereira 🧙‍♂️
 
 ---
 
-<h3>🌎 Mundo 2 – Estruturas de Controle 🕹️</h3>
+<h3>🌎 Mundo 2 – Estruturas de Controle 🕹️ (✅) </h3>
 
 - Condicionais (`if`, `elif`, `else`)  
 - Laços de repetição (`for`, `while`)  
@@ -92,7 +92,7 @@ Lucas Paguetti Pereira 🧙‍♂️
 
 ---
 
-<h3>🌏 Mundo 3 – Estruturas Compostas 📚</h3>
+<h3>🌏 Mundo 3 – Estruturas Compostas 📚 (✅) </h3>
 
 - Tuplas: ()
 - Listas: []
@@ -117,8 +117,7 @@ Lucas Paguetti Pereira 🧙‍♂️
 
 ---
 
-<h2 align="center">🗂️ Estrutura do Projeto: </h2>
-
+<h2 align="center">📂 Estrutura do Projeto: </h2>
 <pre>
 Mundos Python Guanabara/
 ├── mundo1🌍/
@@ -129,6 +128,22 @@ Mundos Python Guanabara/
 │
 ├── mundo3🌍/
 │   └── exércicios(72-114)
+│   └── utilidadesCeV/
+│           └── __init__.py
+│           └── cores.py
+│           └── README_utilidadesCeV.md
+│           └── /dados/
+│                 └── __init__.py 
+│                 └── centoesete.py 
+│                 └── centoeoito.py 
+│                 └── centoenove.py
+│                 └── centoedez.py  
+│           └── /moeda/
+│                 └── __init__.py
+│                 └── centoesetemoeda.py
+│                 └── centoeoitomoeda.py
+│                 └── centoenovemoeda.py
+│                 └── centoedezmoeda.py    
 │
 ├── mundo4🌍/
 │   └── exércicios
@@ -137,10 +152,10 @@ Mundos Python Guanabara/
 │   └── cursoemvideo.jpeg
 │   └── Mundo1_certificado.jpeg
 │   └── Mundo2_certificado.jpeg
+│   └── Mundo3_certificado.jpeg
 │
 └── README.md
 └── LICENSE
-
 </pre>
 
 <br>
@@ -161,6 +176,14 @@ Mundos Python Guanabara/
 <div align="center">
   <img src="img/Mundo2_certificado.jpeg"
        alt="Certificado Mundo 2 - Curso em Vídeo"
+       width="390">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="img/Mundo3_Certificado.jpeg"
+       alt="Certificado Mundo 3 - Curso em Vídeo"
        width="390">
 </div>
 
