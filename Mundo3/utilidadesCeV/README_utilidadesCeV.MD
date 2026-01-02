@@ -5,7 +5,7 @@ Mundo3 🐍🌍
 
 <p align="center">
  <img src="../../img/cursoemvideo1.jpeg" alt="Curso em video Logo">
- <br>
+ <br> <br>
  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="60" style="vertical-align: middle;">
  <br>
 </p>
