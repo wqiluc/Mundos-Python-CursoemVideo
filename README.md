@@ -121,10 +121,10 @@ Lucas Paguetti Pereira 🧙‍♂️
 <pre>
 Mundos Python Guanabara/
 ├── mundo1🌍/
-│   └── exércicios(1-35)
+│   └── exércicios(1-35, cores)
 │
 ├── mundo2🌍/
-│   └── exércicios(36-71)
+│   └── exércicios(36-71, cores)
 │
 ├── mundo3🌍/
 │   └── exércicios(72-114)
