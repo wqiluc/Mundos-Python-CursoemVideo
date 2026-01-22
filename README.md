@@ -1,5 +1,5 @@
 <h1 align="center">
-  Mundos Python – Curso em Vídeo
+  Mundos Python – Curso em Vídeo <br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
        width="32"
        style="vertical-align: middle;"> 🌍🖖
