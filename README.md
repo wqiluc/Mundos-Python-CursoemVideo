@@ -14,16 +14,12 @@
   <strong>Curso em Vídeo</strong>, ministrado pelo Prof. <strong>Gustavo Guanabara 👨🏻‍🏫 <strong>
 </p>
 
-<h2 align="center">👨🏻‍💻 Autor deste Repositório: </h2>
+<h2 align="center">👨🏻‍💻 Autor do Repositório: </h2>
 
 <div align="center">
-
-Lucas Paguetti Pereira 🧙‍♂️  
-🏫 Instuição: Cesar School 🎓🧡  
-📍 Recife, Pernambuco — <strong>Brazil</strong> 🇧🇷  
-
-<br>
-
+<strong>Lucas Paguetti Pereira🦇</strong><br>
+Instituição: <strong>Cesar School🏫</strong><br>
+Recife, Pernambuco — <strong>Brazil🇧🇷</strong><br>
 <a href="https://www.instagram.com/lucpaguetti/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
@@ -32,13 +28,14 @@ Lucas Paguetti Pereira 🧙‍♂️
 </a>
 <a href="https://www.linkedin.com/in/lucas-paguetti-pereira-70267339b/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+</a> <br>
 <a href="mailto:lpp2@cesar.school">
-  <img src="https://img.shields.io/badge/Email-lpp2@cesar.school-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Email-lpp2%40cesar.school-FFA500?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a href="https://discord.com/users/lucaspaguettipereira">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=black">
+  <img src="https://img.shields.io/badge/Discord-lucaspaguettipereira-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
+</div>
 
 
 </div>
@@ -117,21 +114,20 @@ Lucas Paguetti Pereira 🧙‍♂️
 
 ---
 
-<h2 align="center">📂 Estrutura do Projeto: </h2>
+<h2 align="center">🏰 Arquitetura do Repositório: </h2>
 <pre>
-Mundos Python Guanabara/
+Mundos Python Guanabara🖖/
 ├── mundo1🌍/
-│   └── exércicios(1-35, cores)
+│   └── exércicios(1-35, cores) <img src="https://img.shields.io/badge/Mundo%201-Fundamentos-blue?style=flat-square&logo=python" height="18">
 │
 ├── mundo2🌍/
-│   └── exércicios(36-71, cores)
-│
+│   └── exércicios(36-71, cores) <img src="https://img.shields.io/badge/Mundo%202-Estruturas%20de%20Controle-blue?style=flat-square&logo=python&logoColor=blue" height="18">
 ├── mundo3🌍/
-│   └── exércicios(72-114, cores)
+│   └── exércicios(72-114, cores) <img src="https://img.shields.io/badge/Mundo%203-Estruturas%20Compostas-blue?style=flat-square&logo=python&logoColor=blue" height="18">
 │   └── utilidadesCeV/
 │           └── __init__.py
 │           └── cores.py
-│           └── README_utilidadesCeV.md
+│           └── README.md (do utilidadesCeV) <img src="https://img.shields.io/badge/Doc-Markdown-lightgrey?style=flat-square&logo=markdown" height="18">
 │           └── /dados/
 │                 └── __init__.py 
 │                 └── centoesete.py 
@@ -146,16 +142,16 @@ Mundos Python Guanabara/
 │                 └── centoedezmoeda.py    
 │
 ├── mundo4🌍/
-│   └── exércicios
+│   └── exércicios <img src="https://img.shields.io/badge/Mundo%204-Python%20POO-blue?style=flat-square&logo=python&logoColor=blue" height="18">
 │
-├── img/
+├── img/ <img src="https://img.shields.io/badge/Assets-img-blueviolet?style=flat-square&logo=git-lfs" height="17">
 │   └── cursoemvideo.jpeg
 │   └── Mundo1_certificado.jpeg
 │   └── Mundo2_certificado.jpeg
 │   └── Mundo3_certificado.jpeg
 │
-└── README.md
-└── LICENSE
+└── README.md (princípal) <img src="https://img.shields.io/badge/Doc-Markdown-lightgrey?style=flat-square&logo=markdown" height="18">
+└── LICENSE (MIT) <img src="https://img.shields.io/badge/License-MIT-orange?style=flat-square&logo=opensourceinitiative&logoColor=white" height="18">
 </pre>
 
 <br>
