@@ -136,7 +136,11 @@ Mundos Python Guanabara🖖/
 │           └── MENU_TERMINAL.md <img src="https://img.shields.io/badge/Doc-Markdown-111827?style=flat&logo=markdown&logoColor=white" height="18"/>
 │
 ├── Mundo4🌍/ <img src="https://img.shields.io/badge/Em_andamento-2026-111827?style=flat&logo=python&logoColor=FFA500" height="18"/>
-│   └── .txt
+│   ├── 116.py ... 158.py <img src="https://img.shields.io/badge/Exerc%C3%ADcios-116--158-111827?style=flat&logo=python&logoColor=FFD43B" height="18"/>
+│   ├── img/ <img src="https://img.shields.io/badge/-Assets-111827?style=flat&logo=googlephotos&logoColor=A855F7" height="18"/>
+│   │   └── mundo4-01-perguntas.jpeg ... mundo4-07-bancos-de-dados.png
+│   └── md/
+│       └── PYTHON_E_POO.md <img src="https://img.shields.io/badge/Doc-Markdown-111827?style=flat&logo=markdown&logoColor=white" height="18"/>
 │
 ├── img/ <img src="https://img.shields.io/badge/Assets-img-111827?style=flat&logo=googlephotos&logoColor=A855F7" height="18"/>
 │   ├── cursoemvideo1.jpeg
