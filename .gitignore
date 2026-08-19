@@ -1,0 +1,34 @@
+# Bytecode / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribuição / empacotamento
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+ENV/
+
+# Ferramentas de teste / cobertura / lint
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editores / IDEs
+.vscode/
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
