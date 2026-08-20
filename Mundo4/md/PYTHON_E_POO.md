@@ -120,6 +120,8 @@ flowchart LR
 | **Instância** | Sinônimo de objeto — "instanciar" é criar um objeto a partir da classe | Construir uma casa a partir da planta |
 | **Visibilidade** | Define se um atributo/método pode ser acessado de fora da classe (`_privado`, `__nome`) | Portas trancadas vs. portas abertas da casa |
 
+> 🍪 Aprofundamento com a analogia do cortador de biscoitos — classe, objeto, instância e estado explicados passo a passo — em [CLASSES_OBJETOS_INSTANCIAS.md](CLASSES_OBJETOS_INSTANCIAS.md).
+
 ```python
 class Cliente:
     def __init__(self, nome, idade):
@@ -171,12 +173,14 @@ Mundo4🌍/
 │   ├── mundo4-04-embasamento.jpeg
 │   ├── mundo4-05-nomenclaturas.jpeg
 │   ├── mundo4-06-fundamentacao.jpeg
-│   └── mundo4-07-bancos-de-dados.png
+│   ├── mundo4-07-bancos-de-dados.png
+│   └── poo-classes-01-titulo.png ... poo-classes-13-objetos-abstratos.png
 │
 ├── md/
 │   ├── PYTHON_E_POO.md <img src="https://img.shields.io/badge/-Markdown-111827?style=for-the-badge&logo=markdown&logoColor=white" height="22"/>
 │   ├── DE_ONDE_VEIO_POO.md <img src="https://img.shields.io/badge/-Markdown-111827?style=for-the-badge&logo=markdown&logoColor=white" height="22"/>
-│   └── AS_6_VANTAGENS_POO.md <img src="https://img.shields.io/badge/-Markdown-111827?style=for-the-badge&logo=markdown&logoColor=white" height="22"/>
+│   ├── AS_6_VANTAGENS_POO.md <img src="https://img.shields.io/badge/-Markdown-111827?style=for-the-badge&logo=markdown&logoColor=white" height="22"/>
+│   └── CLASSES_OBJETOS_INSTANCIAS.md <img src="https://img.shields.io/badge/-Markdown-111827?style=for-the-badge&logo=markdown&logoColor=white" height="22"/>
 │
 └── ex116🧬/ ... ex158🧬/ <img src="https://img.shields.io/badge/-POO-111827?style=for-the-badge&logo=python&logoColor=F97316" height="22"/>
 </pre>
