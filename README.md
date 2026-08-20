@@ -2,7 +2,7 @@
   Mundos Python – Curso em Vídeo <br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
        width="32"
-       style="vertical-align: middle;"> 🌍🖖
+       style="vertical-align: middle;">🌍🖖
 </h1>
 
 <p align="center">
@@ -30,10 +30,10 @@ Recife, Pernambuco — <strong>Brazil🇧🇷</strong><br>
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a> <br>
 <a href="mailto:lpp2@cesar.school">
-  <img src="https://img.shields.io/badge/Email-lpp2%40cesar.school-FFA500?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Email-lpp2%40cesar.school-FFA500?style=for-the-badge&logo=gmail&logoColor=orange">
 </a>
 <a href="https://discord.com/users/lucaspaguettipereira">
-  <img src="https://img.shields.io/badge/Discord-lucaspaguettipereira-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  <img src="https://img.shields.io/badge/Discord-lucaspaguettipereira-5865F2?style=for-the-badge&logo=discord&logoColor=black">
 </a>
 </div>
 
@@ -65,9 +65,24 @@ Recife, Pernambuco — <strong>Brazil🇧🇷</strong><br>
 
 </div>
 
-<h2 align="center">📘 Conteúdo dos Mundos</h2>
+<h2 align="center">🌍📘 Conteúdo dos Mundos</h2>
 
-<h3>🌍 Mundo 1 – Fundamentos 📘(✅) </h3>
+<div align="center">
+  <a href="#mundo-1">
+    <img src="img/mundo1_logo.jpeg" width="110" alt="Logo Mundo 1 - Fundamentos">
+  </a>
+  <a href="#mundo-2">
+    <img src="img/mundo2_logo.jpeg" width="110" alt="Logo Mundo 2 - Estruturas de Controle">
+  </a>
+  <a href="#mundo-3">
+    <img src="img/mundo_3_logo.jpeg" width="110" alt="Logo Mundo 3 - Estruturas Compostas">
+  </a>
+  <a href="#mundo-4">
+    <img src="img/mundo_4_POO.jpeg" width="110" alt="Logo Mundo 4 - Python e POO">
+  </a>
+</div>
+
+<h3 id="mundo-1">🌍 Mundo 1 – Fundamentos 📘(✅) </h3>
 
 - Primeiros passos com Python  
 - Variáveis e tipos primitivos (`int`, `float`, `bool`, `str`)  
@@ -75,14 +90,14 @@ Recife, Pernambuco — <strong>Brazil🇧🇷</strong><br>
 - Operadores aritméticos  
 - Execução de scripts no terminal  
 
-<h3>🌎 Mundo 2 – Estruturas de Controle 🕹️ (✅) </h3>
+<h3 id="mundo-2">🌎 Mundo 2 – Estruturas de Controle 🕹️ (✅) </h3>
 
 - Condicionais (`if`, `elif`, `else`)  
 - Laços de repetição (`for`, `while`)  
 - Validações `✅`
 - Lógica de programação **aplicada**
 
-<h3>🌏 Mundo 3 – Estruturas Compostas 📚 (✅) </h3>
+<h3 id="mundo-3">🌏 Mundo 3 – Estruturas Compostas 📚 (✅) </h3>
 
 - Tuplas: ()
 - Listas: []
@@ -92,7 +107,7 @@ Recife, Pernambuco — <strong>Brazil🇧🇷</strong><br>
 - Tratamento de erros `❌`  
 - Organização de projetos  
 
-<h3>🌍 Mundo 4 – Python e POO
+<h3 id="mundo-4">🌍 Mundo 4 – Python e POO
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
        width="22"
        style="vertical-align: middle;">
@@ -101,7 +116,7 @@ Recife, Pernambuco — <strong>Brazil🇧🇷</strong><br>
        style="vertical-align: middle;">
 </h3>
 
-- Em andamento (2026 👀)
+- <b>Em andamento . . .</b>
 
 <h2 align="center"> 🏰 Arquitetura do Repositório <br>
 <img src="https://img.shields.io/badge/Architecture-111827?style=flat-square&logo=instructure&logoColor=white"/></h2>
@@ -138,13 +153,18 @@ Mundos Python Guanabara🖖/
 ├── Mundo4🌍/ <img src="https://img.shields.io/badge/Em_andamento-2026-111827?style=flat&logo=python&logoColor=FFA500" height="18"/>
 │   ├── 116.py ... 158.py <img src="https://img.shields.io/badge/Exerc%C3%ADcios-116--158-111827?style=flat&logo=python&logoColor=FFD43B" height="18"/>
 │   ├── img/ <img src="https://img.shields.io/badge/-Assets-111827?style=flat&logo=googlephotos&logoColor=A855F7" height="18"/>
-│   │   └── mundo4-01-perguntas.jpeg ... mundo4-07-bancos-de-dados.png
 │   └── md/
+│       ├── DE_ONDE_VEIO_POO.md <img src="https://img.shields.io/badge/Doc-Markdown-111827?style=flat&logo=markdown&logoColor=white" height="18"/>
+│       ├── AS_6_VANTAGENS_POO.md <img src="https://img.shields.io/badge/Doc-Markdown-111827?style=flat&logo=markdown&logoColor=white" height="18"/>
 │       └── PYTHON_E_POO.md <img src="https://img.shields.io/badge/Doc-Markdown-111827?style=flat&logo=markdown&logoColor=white" height="18"/>
 │
 ├── img/ <img src="https://img.shields.io/badge/Assets-img-111827?style=flat&logo=googlephotos&logoColor=A855F7" height="18"/>
 │   ├── cursoemvideo1.jpeg
 │   ├── cursoemvideo2.jpeg
+│   ├── mundo1_logo.jpeg
+│   ├── mundo2_logo.jpeg
+│   ├── mundo3_logo.jpeg
+│   ├── mundo4_POO_logo.jpeg
 │   ├── Mundo1_certificado.jpeg
 │   ├── Mundo2_certificado.jpeg
 │   └── Mundo3_Certificado.jpeg

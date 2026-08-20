@@ -75,6 +75,10 @@ Antes de escrever `class`, vale entender **de onde o paradigma surgiu** e **por 
 | ⚡ Vantagens de uso | Reuso (herança), organização, manutenção mais simples e código mais próximo do problema real |
 | 🧠 Entendendo o paradigma | Trocar "funções que manipulam dados soltos" por "objetos que sabem se manipular" |
 
+> 📖 Aprofundamento com a linha do tempo completa — da crise do software de 1960 a Simula, Smalltalk e Python — em [DE_ONDE_VEIO_POO.md](DE_ONDE_VEIO_POO.md).
+>
+> 🚗 Aprofundamento das vantagens — o acrônimo `COMERN` explicado peça por peça com a analogia de um carro — em [AS_6_VANTAGENS_POO.md](AS_6_VANTAGENS_POO.md).
+
 <h2 align="left" id="4-nomenclaturas">🔤 4. Nomenclaturas: POO, OOP, OOAD</h2>
 
 O mesmo conceito aparece com siglas diferentes dependendo da fonte — vale reconhecer todas, pois a literatura e a documentação em inglês usam a sigla `OOP`.
@@ -170,7 +174,9 @@ Mundo4🌍/
 │   └── mundo4-07-bancos-de-dados.png
 │
 ├── md/
-│   └── PYTHON_E_POO.md <img src="https://img.shields.io/badge/-Markdown-111827?style=for-the-badge&logo=markdown&logoColor=white" height="22"/>
+│   ├── PYTHON_E_POO.md <img src="https://img.shields.io/badge/-Markdown-111827?style=for-the-badge&logo=markdown&logoColor=white" height="22"/>
+│   ├── DE_ONDE_VEIO_POO.md <img src="https://img.shields.io/badge/-Markdown-111827?style=for-the-badge&logo=markdown&logoColor=white" height="22"/>
+│   └── AS_6_VANTAGENS_POO.md <img src="https://img.shields.io/badge/-Markdown-111827?style=for-the-badge&logo=markdown&logoColor=white" height="22"/>
 │
 └── ex116🧬/ ... ex158🧬/ <img src="https://img.shields.io/badge/-POO-111827?style=for-the-badge&logo=python&logoColor=F97316" height="22"/>
 </pre>
