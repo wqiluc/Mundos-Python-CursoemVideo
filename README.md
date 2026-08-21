@@ -156,7 +156,9 @@ Mundos Python Guanabara🖖/
 │   └── md/
 │       ├── DE_ONDE_VEIO_POO.md <img src="https://img.shields.io/badge/Doc-Markdown-111827?style=flat&logo=markdown&logoColor=white" height="18"/>
 │       ├── AS_6_VANTAGENS_POO.md <img src="https://img.shields.io/badge/Doc-Markdown-111827?style=flat&logo=markdown&logoColor=white" height="18"/>
-│       └── PYTHON_E_POO.md <img src="https://img.shields.io/badge/Doc-Markdown-111827?style=flat&logo=markdown&logoColor=white" height="18"/>
+│       ├── PYTHON_E_POO.md <img src="https://img.shields.io/badge/Doc-Markdown-111827?style=flat&logo=markdown&logoColor=white" height="18"/>
+│       ├── CLASSES_OBJETOS_INSTANCIAS.md <img src="https://img.shields.io/badge/Doc-Markdown-111827?style=flat&logo=markdown&logoColor=white" height="18"/>
+│       └── OBJETOS_VARIAVEIS_EVOLUIDAS.md <img src="https://img.shields.io/badge/Doc-Markdown-111827?style=flat&logo=markdown&logoColor=white" height="18"/>
 │
 ├── img/ <img src="https://img.shields.io/badge/Assets-img-111827?style=flat&logo=googlephotos&logoColor=A855F7" height="18"/>
 │   ├── cursoemvideo1.jpeg
