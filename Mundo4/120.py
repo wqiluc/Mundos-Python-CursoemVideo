@@ -16,7 +16,7 @@ console.print(Panel
 ))
 
 class Produto:
-    def __init__(self, nome, preco):
+    def __init__(self, nome: str, preco: float) -> None:
         self.nome = nome
         self.preco = preco
 
@@ -32,14 +32,14 @@ class Produto:
         ))
 
 dados_produtos = [
-    ("Caneta", 15),
-    ("Casaco", 150),
-    ("Celular", 1500),
-    ("Computador", 6700),
+    ("Caneta", 15,00),
+    ("Casaco", 150,00),
+    ("Celular", 1500,00),
+    ("Computador", 6700,00),
 ]
 
 lista_produtos = []
-lista_produtos.extend([Produto(nome=dados_produtos[indice][0], preco=dados_produtos[indice][1]) for indice in range(0, 4)])
+lista_produtos.extend([Produto(nome=dados_produtos[indice_produto][0], preco=dados_produtos[indice_produto][1]) for indice_produto in range(0, 4)])
 
 for indice_produto, produto in enumerate(lista_produtos):
     print(f"\n{indice_produto+1} - ")

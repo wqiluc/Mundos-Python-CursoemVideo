@@ -16,9 +16,8 @@ console.print(Panel
     padding=(1, 2),
 ))
 
-
 class Funcionario:
-    def __init__(self, id, nome, setor, cargo):
+    def __init__(self, id: int, nome: str, setor: str, cargo:str) -> None:
         self.id = id
         self.nome = nome
         self.setor = setor
@@ -29,7 +28,7 @@ class Funcionario:
         return f"""\n{CinzaClaro}Olá!! meu nome é {self.nome}, meu ID é {self.id}, 
         trabalho na área de {self.setor} e atuo como {self.cargo}{Reset}\n"""
 
-lista_funcionarios = list()
+lista_funcionarios = []
 func1 = Funcionario(id=1, nome="Lucas Paguetti", setor="Tecnologia", cargo="Análista")
 func2 = Funcionario(id=2, nome="Maria Silva", setor="Financeiro", cargo="Gerente")
 func3 = Funcionario(id=3, nome="João Souza", setor="Recursos Humanos", cargo="Analista")

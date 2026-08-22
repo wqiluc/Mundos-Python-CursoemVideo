@@ -1,5 +1,6 @@
 from rich.console import Console
 from rich.panel import Panel
+from cores import CinzaClaro, Reset
 
 console = Console()
 
@@ -17,7 +18,7 @@ console.print(Panel
 ))
 
 class ChurrascoPython:
-    def __init__(self, pessoas, carne_por_pessoa, preco_kg_carne):
+    def __init__(self, pessoas: int, carne_por_pessoa: float, preco_kg_carne: float) -> None:
         self.pessoas = pessoas
         self.carne_por_pessoa = carne_por_pessoa
         self.preco_kg_carne = preco_kg_carne
@@ -49,14 +50,14 @@ dados_convidados = [
     ("Elisa",),
 ]
 
-lista_convidados_confirmados = [dados_convidados[indice][0] for indice in range(0, len(dados_convidados[0:]))]
+lista_convidados_confirmados = [dados_convidados[indice_convidado][0] for indice_convidado in range(0, len(dados_convidados[0:]))]
 
 churrasco = ChurrascoPython(
-    pessoas=len(lista_convidados_confirmados),
+    pessoas=len(lista_convidados_confirmados[0:]),
     carne_por_pessoa=2.0,
     preco_kg_carne=90.00,
 )
 
 for indice_convidado, convidado in enumerate(lista_convidados_confirmados):
-    print(f"\n{indice_convidado+1} - {convidado}")
+    print(f"\n{CinzaClaro}{indice_convidado+1}º Convidado(a) - {convidado}{Reset}")
 churrasco.convite_churrasco()
