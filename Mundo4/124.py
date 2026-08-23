@@ -20,7 +20,7 @@ class Canetascoloridas:
         self.texto = texto
         self.cor = cor
 
-    def colir_texto(self):
+    def colir_texto(self) -> str:
         return f"Texto {self.texto} colorido com a cor: {self.cor}"
 
 cores_textos = [

@@ -23,7 +23,7 @@ class Gamer:
         self.nick = nick
         self.jogos = jogos_favoritos
 
-    def ficha_gamer(self):
+    def ficha_gamer(self) -> str:
         jogos_formatados = "\n".join(f"  • {jogo}" for indice_jogo, jogo in enumerate(self.jogos))
         console.print(Panel
         (
@@ -36,7 +36,7 @@ class Gamer:
             padding=(1, 2),
         ))
 
-    def etiqueta(self):
+    def etiqueta(self) -> None:
         conteudo = Text(justify="center")
         conteudo.append(f"{self.nick}\n", style="bold #FFA500")
         conteudo.append(self.nome, style="#3B82F6")
@@ -54,6 +54,6 @@ gamers = [
     Gamer("Carla Nunes", "CarlaNova", ["Minecraft", "Stardew Valley", "Terraria"]),
 ]
 
-for indice_gamer, gamer in enumerate(gamers):
-    print(f"{indice_gamer+1} - ")
+for (indice_gamer), gamer in enumerate(gamers, start=1):
+    print(f"{indice_gamer} - ")
     gamer.ficha_gamer()

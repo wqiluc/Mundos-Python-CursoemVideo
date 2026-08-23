@@ -21,7 +21,7 @@ class Livro:
         self.paginaatual = paginaatual
         self.pularpagina = pularpagina
 
-    def pular_pagina(self):
+    def pular_pagina(self) -> None:
         self.paginaatual += self.pularpagina
         self.pularpagina = self.paginaatual+1
         if (self.paginaatual >= self.totalpaginas):
@@ -44,8 +44,7 @@ livros = [
     Livro("Harry Potter e a Pedra Filosofal", 0, 223, 60),
 ]
 
-
-for indice_livro, livro in enumerate(livros):
+for (indice_livro), livro in enumerate(livros, start=1):
     while (livro.paginaatual < livro.totalpaginas):
         console.print(Panel
         (

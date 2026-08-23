@@ -17,7 +17,7 @@ console.print(Panel
     padding=(1, 2),
 ))
 
-class ChurrascoPython:
+class Churrasco:
     def __init__(self, pessoas: int, carne_por_pessoa: float, preco_kg_carne: float) -> None:
         self.pessoas = pessoas
         self.carne_por_pessoa = carne_por_pessoa
@@ -52,12 +52,12 @@ dados_convidados = [
 
 lista_convidados_confirmados = [dados_convidados[indice_convidado][0] for indice_convidado in range(0, len(dados_convidados[0:]))]
 
-churrasco = ChurrascoPython(
+churrasco = Churrasco(
     pessoas=len(lista_convidados_confirmados[0:]),
     carne_por_pessoa=2.0,
-    preco_kg_carne=90.00,
+    preco_kg_carne=90.00
 )
 
-for indice_convidado, convidado in enumerate(lista_convidados_confirmados):
-    print(f"\n{CinzaClaro}{indice_convidado+1}º Convidado(a) - {convidado}{Reset}")
+for (indice_convidado), convidado in enumerate(lista_convidados_confirmados, start=1):
+    print(f"\n{indice_convidado}{CinzaClaro}º Convidado(a) - {convidado}{Reset}")
 churrasco.convite_churrasco()
